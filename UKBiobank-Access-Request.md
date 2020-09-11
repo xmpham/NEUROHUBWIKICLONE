@@ -19,10 +19,16 @@ McGill University and the UK Biobank Limited have signed a Material Transfer Agr
 ![](https://github.com/neurohub/neurohub_documentation/blob/master/images/login_ams.png)
 
 - Once processed, registrations will be confirmed by email from the UK Biobank
+**For those users with an existing UK Biobank account please ensure to add McGill University as your current institutional affiliation.**
 
 
 #### 2.Getting a LORIS Account 
 **To complete this step you first need the registration confirmation from the UK Biobank!**
+
+This step and the collection of the required information is necessary so as to confirm the details of your UK Biobank registration, and to verify eligibility to access the data as part of the approved application.
+
+Once reviewed and approved, users will be added to the associated McGill UK Biobank application. Users will receive an email from the AMS system notifying them of the status and updated affiliation with the McGill UK Biobank application.
+
 - fill in the LORIS Users Consent and Agreement form
   - read the Material Transfer Agreement [MTA](https://ukb-covid.loris.ca/login/request-account/?download=mta)
   - read the [approved application](https://ukb-covid.loris.ca/login/request-account/?download=application) 
@@ -38,10 +44,20 @@ McGill University and the UK Biobank Limited have signed a Material Transfer Agr
 
 
 #### 3.Getting a NeuroHub / CBRAIN Account OR Compute Canada Account
+
+At this step, users are entitled to access the UK Biobank data through the McGill agreement. Access is managed by the NeuroHub team and at present is possible though two resource points:
+
+   1. The [NeuroHub](https://neurohub.ca/index.html) Platform, which is a core facility of the [Healthy Brains, Healthy Lives (HBHL)](https://www.mcgill.ca/hbhl/) initiative. NeuroHub brings together established data and computational infrastructure with new technologies to provide a web-based platform to support scientific research in neuroinformatics, genomics, social sciences, biology, among others.
+
+   2. The [Compute Canada](https://www.computecanada.ca/home/) National Platform system of [Béluga](https://docs.computecanada.ca/wiki/B%C3%A9luga/en), with the UK Biobank data managed on that platform by the NeuroHub team.
+
+Further information regarding both processes are described below.
+
 to get a NeuroHub /  CBRAIN Account 
-- Visit the [NeuroHub portal](https://portal.neurohub.ca/signin), and request an account if needed. Account requests will be confirmed by email once created within the NeuroHub portal. 
+- Visit the [NeuroHub portal](https://portal.neurohub.ca/signin), and [request an account]() if needed.. Account requests will be confirmed by email once created within the NeuroHub portal. 
 - For new account requests please ensure to use your McGill email address which would have been used for your registration with the UK Biobank.  
-- If you already have a CBRAIN account, it will work with NeuroHub.
+- If you already have a [CBRAIN](http://www.cbrain.ca/) account, it will work with NeuroHub.
+- Login to the NeuroHub portal and go to the Projects tab. Under the list of Projects you will see the datasets associated with the UK Biobank. Dataset files can be downloaded via the NeuroHub portal for analysis on your local system. Additional data processing capabilities will soon be added directly into the NeuroHub portal.
 
 to get a Compute Canada Account
 - [Apply for a Compute Canada account](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/) if you do not already have an account. The above link provides detailed information about how to apply for a Compute Canada account.
@@ -71,38 +87,9 @@ iii. Once approved, you can access the UK Biobank data on the Béluga computing 
 
 
 
-Detailed instructions regarding the registration process are available here.
-Once processed, registrations will be confirmed by email from the UK Biobank and may take up to two weeks to complete.
 
-**For those users with an existing UK Biobank account please ensure to add McGill University as your current institutional affiliation.**
 
-#### 2. Complete and agree to the terms of the [User Consent & Agreement Form](https://ukb-covid.loris.ca/login/request-account/) specific to the McGill agreement with the UK Biobank.
 
-This step and the collection of the required information is necessary so as to confirm the details of your UK Biobank registration, and to verify eligibility to access the data as part of the approved application.
-
-Once reviewed and approved, users will be added to the associated McGill UK Biobank application. Users will receive an email from the AMS system notifying them of the status and updated affiliation with the McGill UK Biobank application.
-
-#### 3. At this step, users are entitled to access the UK Biobank data through the McGill agreement. Access is managed by the NeuroHub team and at present is possible though two resource points:
-
-   1. The [NeuroHub](https://neurohub.ca/index.html) Platform, which is a core facility of the [Healthy Brains, Healthy Lives (HBHL)](https://www.mcgill.ca/hbhl/) initiative. NeuroHub brings together established data and computational infrastructure with new technologies to provide a web-based platform to support scientific research in neuroinformatics, genomics, social sciences, biology, among others.
-
-   2. The [Compute Canada](https://www.computecanada.ca/home/) National Platform system of [Béluga](https://docs.computecanada.ca/wiki/B%C3%A9luga/en), with the UK Biobank data managed on that platform by the NeuroHub team.
-
-Further information regarding both processes are described below. 
-
-<p>&nbsp;</p>
-
-**_NeuroHub registration process_**
-
-Visit the [NeuroHub portal](https://neurohub.ca/index.html), and [request an account]() if needed.
-
-i. Account requests will be confirmed by email once created within the NeuroHub portal. For new account requests please ensure to use your McGill email address which would have been used for your registration with the UK Biobank.
-
-ii. If you already have a [CBRAIN](http://www.cbrain.ca/) account, it will work with NeuroHub.
-
-iii. At this time, the NeuroHub portal is available in the Alpha release phase. As such, you must be connected to the McGill VPN in order to access the NeuroHub portal. The portal will be made more broadly accessible once early-user testing is completed and the portal subsequently put into full production.
-
-iv. Login to the NeuroHub portal and go to the Projects tab. Under the list of Projects you will see the datasets associated with the UK Biobank. Dataset files can be downloaded via the NeuroHub portal for analysis on your local system. Additional data processing capabilities will soon be added directly into the NeuroHub portal.
 
 <p>&nbsp;</p>
 
