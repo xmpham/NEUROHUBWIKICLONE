@@ -10,9 +10,9 @@ The aim of this documentation is to provide a step by step instruction in order 
    1. [Get a NeuroHub account](https://github.com/neurohub/neurohub_documentation/wiki/Get-a-NeuroHub-account)
   1. [Obtain UKBiobank access](https://github.com/neurohub/neurohub_documentation/wiki/UKBiobank-Access-Request)
 
-#### 2. [Using NeuroHub](https://github.com/neurohub/neurohub_documentation/wiki/Using-NeuroHub)
-   2. [Access NeuroHub](https://github.com/neurohub/neurohub_documentation/wiki/Access-NeuroHub)
-  2.[Creating a project](https://github.com/neurohub/neurohub_documentation/wiki/Creating-a-project)
+#### 2. [Using NeuroHub](https://github.com/neurohub/neurohub_documentation/wiki/Using-NeuroHub)        
+  2. [Access NeuroHub](https://github.com/neurohub/neurohub_documentation/wiki/Access-NeuroHub)
+ 2.[Creating a project](https://github.com/neurohub/neurohub_documentation/wiki/Creating-a-project)
 
 #### 3. [Examples](https://github.com/neurohub/neurohub_documentation/wiki/Examples)
   3. [Analyses of structural data](https://github.com/neurohub/neurohub_documentation/wiki/Example-1-Analyses-of-structural-data)
