@@ -6,7 +6,7 @@ McGill University and the UK Biobank Limited have signed a Material Transfer Agr
 
 ## Procedure to access data:
 
-![](https://github.com/neurohub/neurohub_documentation/blob/master/images/ukb_flowchart.png)
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/ukb_flowchart.png = 389x618)
 
 #### 1. Register with the [UK Biobank Access Management System (AMS)](https://bbams.ndph.ox.ac.uk/ams/). Be sure to specify your McGill affiliated email address when completing your registration. 
 
