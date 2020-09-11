@@ -14,8 +14,8 @@ The aim of this documentation is to provide a step by step instruction in order 
    2. [Access NeuroHub](https://github.com/neurohub/neurohub_documentation/wiki/Access-NeuroHub)
   2.[Creating a project](https://github.com/neurohub/neurohub_documentation/wiki/Creating-a-project)
 
-#### 3. [Examples]()
-  3. Analyses of structural data
-  3. Using the LORIS Data-Query-Tool
+#### 3. [Examples](https://github.com/neurohub/neurohub_documentation/wiki/Examples)
+  3. [Analyses of structural data](https://github.com/neurohub/neurohub_documentation/wiki/Example-1-Analyses-of-structural-data)
+  3. [Using the LORIS Data-Query-Tool](https://github.com/neurohub/neurohub_documentation/wiki/Using-the-LORIS-Data-Query-Tool-(DQT))
 
-4. SUPPLEMENTARY INFORMATION
+#### 4. [SUPPLEMENTARY INFORMATION](https://github.com/neurohub/neurohub_documentation/wiki/Supplementary-Information)
