@@ -8,6 +8,8 @@ In order to help you getting started and set up with a NeuroHub account, please 
 
 3. click on “Open Portal” 
 
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/portal_info.png)
+
 3. 1. click on “**REQUEST AN ACCOUNT**” 
 
 ![](https://github.com/neurohub/neurohub_documentation/blob/master/images/request_account.png)
