@@ -8,7 +8,15 @@ McGill University and the UK Biobank Limited have signed a Material Transfer Agr
 
 ![](https://github.com/neurohub/neurohub_documentation/blob/master/images/ukb_flowchart.png)
 
-#### 1. Register with the [UK Biobank Access Management System (AMS)](https://bbams.ndph.ox.ac.uk/ams/). Be sure to specify your McGill affiliated email address when completing your registration. 
+#### 1.Getting a UK Biobank Account [UK Biobank Access Management System (AMS)](https://bbams.ndph.ox.ac.uk/ams/). 
+
+##### UK Biobank Access Management (AMS) - what you need: 
+- Be sure to specify your McGill affiliated email address when completing your registration. 
+- Some patience (Once processed, registrations will be confirmed by email from the UK Biobank and may take up to two weeks to complete.)
+- It is of great importance to choose “McGill University” as your “name of primary institute” from the drop-down menu, otherwise your account 
+  cannot be linked to your LORIS account later on.
+
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/login_ams.png)
 
 Detailed instructions regarding the registration process are available here.
 Once processed, registrations will be confirmed by email from the UK Biobank and may take up to two weeks to complete.
