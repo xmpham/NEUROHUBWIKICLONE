@@ -59,6 +59,7 @@ Further information regarding both processes are described below.
 - If you already have a [CBRAIN](http://www.cbrain.ca/) account, it will work with NeuroHub.
 - Login to the NeuroHub portal and go to the Projects tab. Under the list of Projects you will see the datasets associated with the UK Biobank. Dataset files can be downloaded via the NeuroHub portal for analysis on your local system. Additional data processing capabilities will soon be added directly into the NeuroHub portal.
 
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/request_Neurohub.png)
 
 **_Compute Canada - Beluga registration process_**
 - [Apply for a Compute Canada account](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/) if you do not already have an account. The above link provides detailed information about how to apply for a Compute Canada account.
