@@ -21,7 +21,7 @@ The aim of this documentation is to provide a step by step instruction in order 
 #### 3. [Examples](https://github.com/neurohub/neurohub_documentation/wiki/Examples)
 
    1. [Analyses of structural data](https://github.com/neurohub/neurohub_documentation/wiki/Example-1-(Analyses-of-structural-data))
-   2. [Using the LORIS Data-Query-Tool]()
+   2. [Using the LORIS Data-Query-Tool](https://github.com/neurohub/neurohub_documentation/wiki/Using-the-LORIS-DATA-QUERY-TOOL-(DQT))
 
 
 #### 4. [SUPPLEMENTARY INFORMATION](https://github.com/neurohub/neurohub_documentation/wiki/Supplementary-Information)	
