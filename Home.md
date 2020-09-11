@@ -2,8 +2,7 @@
 
 ![](https://neurohub.ca/images/logo-neurohub.png)
 
-The aim of this documentation is to provide a step by step instruction in order to access and to use [NeuroHub](https://neurohub.ca/), including the upload and analysis of MRI data. It is roughly divided into four parts: [Getting Started](https://github.com/neurohub/neurohub_documentation/wiki/Getting-started), [How to use NeuroHub](https://github.com/neurohub/neurohub_documentation/wiki/Using-NeuroHub), [Examples](https://github.com/neurohub/neurohub_documentation/wiki/Examples) and [Supplementary Information](https://github.com/neurohub/neurohub_documentation/wiki/Supplementary-Information). If you have questions regarding this documentation, including any of its parts or discovered an error, please [open an issue](https://github.com/neurohub/neurohub_documentation/issues).
-
+The aim of this documentation is to provide a step by step instruction in order to access and to use [NeuroHub](https://neurohub.ca/), including the upload and analysis of MRI data. It is roughly divided into four parts: [Getting Started](https://github.com/neurohub/neurohub_documentation/wiki/Getting-started), [How to use NeuroHub](https://github.com/neurohub/neurohub_documentation/wiki/Using-NeuroHub), [Examples](https://github.com/neurohub/neurohub_documentation/wiki/Examples) and [Supplementary Information](https://github.com/neurohub/neurohub_documentation/wiki/Supplementary-Information). If you have questions regarding this documentation, including any of its parts or discovered an error, please contact support@neurohub.ca.
 ### Table of Contents
 
 #### 1. [Getting started](https://github.com/neurohub/neurohub_documentation/wiki/Getting-started) 
