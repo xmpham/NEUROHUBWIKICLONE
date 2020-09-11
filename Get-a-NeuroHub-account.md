@@ -25,7 +25,7 @@ In order to help you getting started and set up with a NeuroHub account, please 
 
 6. wait, until you receive the approval of your account via email 
 
-7. You will receive your username and your temporary password to login, click on the link, login to [CBRAIN](http://www.cbrain.ca/) and change your temporary password 
+7. You will receive your username and your temporary password to login, click on the link, login to [CBRAIN](http://www.cbrain.ca/) component of NeuroHub and change your temporary password 
 
 ![](https://github.com/neurohub/neurohub_documentation/blob/master/images/cbrain_login.png)
 
