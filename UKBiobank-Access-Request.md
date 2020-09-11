@@ -43,7 +43,7 @@ Once reviewed and approved, users will be added to the associated McGill UK Biob
   - Description of the purpose and how the UK Biobank data will be used (1000 words max.)
 
 
-#### 3.Getting a NeuroHub / CBRAIN Account OR Compute Canada Account
+#### 3.Getting a NeuroHub Account OR Compute Canada Account
 
 At this step, users are entitled to access the UK Biobank data through the McGill agreement. Access is managed by the NeuroHub team and at present is possible though two resource points:
 
@@ -53,7 +53,7 @@ At this step, users are entitled to access the UK Biobank data through the McGil
 
 Further information regarding both processes are described below.
 
-**_NeuroHub /  CBRAIN registration process_**
+**_NeuroHub registration process_**
 - Visit the [NeuroHub portal](https://portal.neurohub.ca/signin), and [request an account]() if needed.. Account requests will be confirmed by email once created within the NeuroHub portal. 
 - For new account requests please ensure to use your McGill email address which would have been used for your registration with the UK Biobank.  
 - If you already have a [CBRAIN](http://www.cbrain.ca/) account, it will work with NeuroHub.
