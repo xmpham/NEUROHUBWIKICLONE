@@ -32,7 +32,11 @@ In the following we will provide a step by step guide how to analyze structural 
 
 #### 9. now, you can select a analysis tool on the right side or reduce your selection by clicking on your data type, your preferred software package or any tags on the right side 
 
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/example_6.png)
+
 #### 10. as we are interested in analyze a structural data file, we can reduce our selection by clicking this type
+
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/example_7.png)
 
 #### 11. here is a short overview of the available pipelines for anatomical analysis:
 
@@ -58,6 +62,9 @@ further information can be found here: [Civet]()
 #### 12. we will use a general pipeline → **_fsl_anat_**
 
 #### 13. next, we choose a server, where the analysis should be performed; _**fsl_anat**_ version 5.0.9 runs on the servers “**Graham**” and “**Cedar**”. You are informed about the last wait time and can choose your favorite server based on this information.  
+
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/example_8.png)
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/example_9.png)
 
 #### 14. now, you can manage your analysis
 
