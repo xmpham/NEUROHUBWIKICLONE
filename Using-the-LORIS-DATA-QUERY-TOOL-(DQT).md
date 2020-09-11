@@ -12,16 +12,16 @@ You need an approved UKBiobank account before requesting a LORIs account (detail
 - login using your email address and the password from the email. 
   - If it is the first time you login, you will be prompted to enter a new password
 
-![](https://neurohub.ca/images/DQT_1.png)
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/DQT_1.png)
 
 - you are directed to your dashboard
 
-![](https://neurohub.ca/images/DQT_2.png)
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/DQT_2.png)
 
 - use the menu _Report > Data Query Tool_ at the top to access the **DQT** module [here](https://ukb-covid.loris.ca/dataquery/)
 - now, you can see the overview of the **DQT** 
 
-![](https://neurohub.ca/images/DQT_3_4.png)
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/DQT_3_4.png)
 
 ### Query the data 
 #### Define Fields
@@ -36,26 +36,26 @@ You need an approved UKBiobank account before requesting a LORIs account (detail
 - _Search with instrument:_ Here, you can enter a free text (e.g. T1w)
 - _Visits:_ with this option you can further narrow your search
 
-![](https://neurohub.ca/images/DQT_5.png)
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/DQT_5.png)
 
 - click on the files you are interested in, these are then summarized under _Fields_ on the right side of the page
 
-![](https://neurohub.ca/images/DQT_6.png)
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/DQT_6.png)
 
 - another useful instrument is ukbb_covid19, which includes the fields laboratory, origin, result, specdate, spectype). 
 
-![](https://neurohub.ca/images/DQT_7.png)
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/DQT_7.png)
 
 #### Define Filters (optional)
 - to add a filter, select an instrument and a field then enter the condition (operator + value)
 - filters can be grouped using AND or OR operators. Use the _Add Group_ and _Add Rule_ button to create the desired filters
 
-![](https://neurohub.ca/images/DQT_8.png)
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/DQT_8.png)
 
 #### View data
 - click _Run Query_ to see the results. It can take a few minutes to load. 
 
-![](https://neurohub.ca/images/DQT_8_9.png)
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/DQT_8_9.png)
 
 - the data can be downloaded (_Download Data as ZIP_) in the browser or exported to NeuroHub (_Export Data to Neurohub_)
   - Download Data as a _csv_
@@ -67,7 +67,7 @@ You need an approved UKBiobank account before requesting a LORIs account (detail
     - to obtain that token, go to My Account page in [NeuroHub](https://portal.neurohub.ca/)
     - copy the token in the API token section (_Neurohub API token_)
 
-![](https://neurohub.ca/images/DQT_10_11.png)
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/DQT_10_11.png)
 
 - the exported data is listed under _Latest Updated Files_ on your Neurohub Dashboard
 
@@ -75,4 +75,4 @@ You need an approved UKBiobank account before requesting a LORIs account (detail
 - this option allows to perform summary statistics (e.g. min, max, avg) 
 - additionally, an R-square plot (Scatterplot) can be created for the variable of interest 
 
-![](https://neurohub.ca/images/DQT_stats.png)
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/DQT_stats.png)
