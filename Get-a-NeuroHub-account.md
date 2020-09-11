@@ -1,4 +1,5 @@
-In order to help you getting started and set up with a NeuroHub account, please follow the outlined steps below. Should you encounter problems along the way, please contact us via info@neurohub.ca or [open an issue](https://github.com/neurohub/neurohub_documentation/issues).
+In order to help you getting started and set up with a NeuroHub account, please follow the outlined steps below. Should you encounter problems along the way, please contact us via support@neurohub.ca.
+.
 
 ### Procedure
 
