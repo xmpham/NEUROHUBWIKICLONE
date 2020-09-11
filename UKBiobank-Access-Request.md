@@ -24,7 +24,21 @@ McGill University and the UK Biobank Limited have signed a Material Transfer Agr
 #### 2.Getting a LORIS Account 
 **To complete this step you first need the registration confirmation from the UK Biobank!**
 - fill in the LORIS Users Consent and Agreement form
- - read the Material Transfer Agreement [MTA](https://ukb-covid.loris.ca/login/request-account/?download=mta)
+  - read the Material Transfer Agreement [MTA](https://ukb-covid.loris.ca/login/request-account/?download=mta)
+  - read the [approved application](https://ukb-covid.loris.ca/login/request-account/?download=application) 
+  - you need to indicate the following points:
+     - think about which processing pipelines you are going to use for your planned analysis with the UKB data
+  - if you are working in a funded project you need to know 
+    - granting agency /program
+    - name of principal investigator 
+    - your role on the project
+    - title of research project and a short summary
+  - PT record to upload 
+  - Description of the purpose and how the UK Biobank data will be used (1000 words max.)
+
+
+
+
 
 
 Detailed instructions regarding the registration process are available here.
