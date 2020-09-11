@@ -68,6 +68,8 @@ further information can be found here: [Civet]()
 
 #### 14. now, you can manage your analysis
 
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/example_10.png)
+
    * _**Task Control**_
       * confirm the server and version your analysis should run on and select a data provider for your results
       * click on info to get more information about the available providers
@@ -81,6 +83,8 @@ further information can be found here: [Civet]()
 #### 15. start your analysis by clicking on “**Start fsl_anat**”
 
 #### 16. your task is launched in the background 
+
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/example_11.png)
 
    * you can check the status of your analysis under “Current Status”
 
