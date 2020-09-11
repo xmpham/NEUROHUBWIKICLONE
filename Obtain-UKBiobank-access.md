@@ -67,12 +67,3 @@ iii. Once approved, you can access the UK Biobank data on the Béluga computing 
 `/project/rpp-aevans-ab/neurohub/ukbb/`
 
    * **Please note**: Only users who have successfully completed the full steps of the registration process and have been approved by the NeuroHub team will be enabled to access the UK Biobank data on Béluga. Access controls are in place which restrict access to the UK Biobank data such that only users who have been authorized to join the data sharing group may access the data.
-
-
-<p>&nbsp;</p>
-
-
-### Questions or Issues?
-For any questions or issues related to the registration process for accessing the UK Biobank data though the McGill agreement, please contact the NeuroHub team by email at ukbiobank.neurohub@mcin.ca.
-
-For any questions or issues specifically related to accessing the NeuroHub portal, please contact the NeuroHub team by email at info@neurohub.ca.
