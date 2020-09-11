@@ -17,5 +17,6 @@ The aim of this documentation is to provide a step by step instruction in order 
 #### 3. [Examples](https://github.com/neurohub/neurohub_documentation/wiki/Examples)
   3. [Analyses of structural data](https://github.com/neurohub/neurohub_documentation/wiki/Example-1-Analyses-of-structural-data)
   3. [Using the LORIS Data-Query-Tool](https://github.com/neurohub/neurohub_documentation/wiki/Using-the-LORIS-Data-Query-Tool-(DQT))
+  3. [Using Jupyter Notebook in NeuroHub](https://github.com/neurohub/neurohub_documentation/wiki/Jupyter-Notebook)
 
 #### 4. [SUPPLEMENTARY INFORMATION](https://github.com/neurohub/neurohub_documentation/wiki/Supplementary-Information)
