@@ -22,7 +22,11 @@ In the following we will provide a step by step guide how to analyze structural 
 
 #### 6. click on the project that includes the data that you want to analyze
 
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/example_4.png)
+
 #### 7. you will see a table with your uploaded file
+
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/example_5.png)
 
 #### 8. select your file and click on the “**Launch**” button
 
