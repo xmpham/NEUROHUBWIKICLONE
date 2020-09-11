@@ -3,6 +3,8 @@ In the following we will provide a step by step guide how to analyze structural 
 
 #### 1. click on your project, including the file you wish to analyze, you'll be are redirected to your project summary 
 
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/example_1.png)
+
 
 #### 2. click on the “**file**” icon in the upper left
 
