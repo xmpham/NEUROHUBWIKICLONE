@@ -6,9 +6,9 @@ The aim of this documentation is to provide a step by step instruction in order 
 
 
 ## Table of Contents
-1. Getting started
-  1.1 Get a NeuroHub account
-  1.2 Obtain UKBiobank access
+1. [Getting started](https://github.com/neurohub/neurohub_documentation/wiki/1.Getting-started)
+  1.1 [Get a NeuroHub account](https://github.com/neurohub/neurohub_documentation/wiki/Get-a-NeuroHub-account)
+  1.2 [Obtain UKBiobank access](https://github.com/neurohub/neurohub_documentation/wiki/UKBiobank-Access-Request)
 
 2. Using NeuroHub
   2.1 Access NeuroHub
