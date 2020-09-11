@@ -19,4 +19,4 @@ The aim of this documentation is to provide a step by step instruction in order 
   3. [Using the LORIS Data-Query-Tool](https://github.com/neurohub/neurohub_documentation/wiki/3.2.Using-the-LORIS-Data-Query-Tool-(DQT))
   3. [Using Jupyter Notebook in NeuroHub](https://github.com/neurohub/neurohub_documentation/wiki/3.3.Jupyter-Notebook)
 
-#### 4. [SUPPLEMENTARY INFORMATION](https://github.com/neurohub/neurohub_documentation/wiki/Supplementary-Information)
+#### 4. [SUPPLEMENTARY INFORMATION](https://github.com/neurohub/neurohub_documentation/wiki/4.0.Supplementary-Information)
