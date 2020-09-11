@@ -8,9 +8,9 @@ The aim of this documentation is to provide a step by step instruction in order 
 
 #### 1. [Getting started]() 
 	
-   1. 1. [Get a NeuroHub account]()
+   1.1. [Get a NeuroHub account]()
 
-   1. 2. [Obtain UKBiobank access]() 	
+   1.2. [Obtain UKBiobank access]() 	
 
 #### 2. [Using NeuroHub]()	
 
