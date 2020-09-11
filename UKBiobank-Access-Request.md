@@ -18,6 +18,15 @@ McGill University and the UK Biobank Limited have signed a Material Transfer Agr
 
 ![](https://github.com/neurohub/neurohub_documentation/blob/master/images/login_ams.png)
 
+- Once processed, registrations will be confirmed by email from the UK Biobank
+
+
+#### 2.Getting a LORIS Account 
+**To complete this step you first need the registration confirmation from the UK Biobank!**
+- fill in the LORIS Users Consent and Agreement form
+- - read the Material Transfer Agreement (https://ukb-covid.loris.ca/login/request-account/?download=mta)
+
+
 Detailed instructions regarding the registration process are available here.
 Once processed, registrations will be confirmed by email from the UK Biobank and may take up to two weeks to complete.
 
