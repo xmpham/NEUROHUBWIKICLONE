@@ -90,4 +90,8 @@ further information can be found here: [Civet]()
 
 #### 17. when your task is completed, you will receive a message on your task dashboard
 
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/example_12.png)
+
    * the output directory is located under your “**Projects**”
+
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/example_13.png)
