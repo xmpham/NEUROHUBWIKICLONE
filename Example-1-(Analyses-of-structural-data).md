@@ -8,8 +8,11 @@ In the following we will provide a step by step guide how to analyze structural 
 
 #### 2. click on the “**file**” icon in the upper left
 
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/example_2.png)
 
 #### 3. click on the file, you are redirected to the **CBRAIN** interface of **NeuroHub**, to see your file overview and a first glimpse of your data 
+
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/example_3.png)
 
    * _here you can additionally check your data and detect for example artifacts_
 
