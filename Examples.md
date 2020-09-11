@@ -1,0 +1,1 @@
+Within this section of the documents you will find a set of examples that will in detail showcase how you can analyze neuroimaging data using NeuroHub. It includes the following parts:
