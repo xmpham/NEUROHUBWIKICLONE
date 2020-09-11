@@ -1,3 +1,0 @@
-test
-atest
-ctest
