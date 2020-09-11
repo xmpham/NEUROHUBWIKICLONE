@@ -1,0 +1,1 @@
+Within this section of the documents you will find important information regarding the usage of NeuroHub. It includes the following parts:
