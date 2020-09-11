@@ -41,23 +41,23 @@ In the following we will provide a step by step guide how to analyze structural 
 #### 11. here is a short overview of the available pipelines for anatomical analysis:
 
    * _**reconAll**_
-      * Performs all, or any part of, the FreeSurfer cortical reconstruction process.
-further information can be found here: [recon-all]() 
+      * Performs all, or any part of, the [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurfer) cortical reconstruction process.
+further information can be found here: [recon-all](https://surfer.nmr.mgh.harvard.edu/fswiki/recon-all) 
    * _**FslBet**_
       * BET (Brain Extraction Tool) deletes non-brain tissue from an image of the whole head. It can also estimate the inner and outer skull surfaces, and outer scalp surface, if you have good quality T1 and T2 input images.
-further information can be found here: [FslBet]()
+further information can be found here: [FslBet](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/BET)
    * _**fsl_anat**_
       * This tool provides a general pipeline for processing anatomical images (e.g. T1-weighted scans).
-further information can be found here: [fsl_anat]()
+further information can be found here: [fsl_anat](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/fsl_anat)
    * _**Asipro2minc**_
-      * further information: MINC
+      * further information: [MINC](https://en.wikibooks.org/wiki/MINC)
    * _**Civet**_
       * The CIVET project was initiated in order to create an automated, easy-to-use human brain-imaging pipeline that makes use of state-of-the-art software tools developed by researchers at the BIC for the fully-automated processing and analysis of large MR data sets, including the extraction and analysis of cortical surfaces from MR images, as well as many other volumetric and corticometric functions.
-further information can be found here: [Civet]() 
+further information can be found here: [Civet](http://www.bic.mni.mcgill.ca/ServicesSoftware/CIVET-2-1-0-Table-of-Contents) 
    * _**CivetCombiner**_
    * _**CIVET QC tool**_ 
       * Quality control for Civet data analysis pipeline
-      * further information can be found here: [CIVET QC tool]()
+      * further information can be found here: [CIVET QC tool](http://www.bic.mni.mcgill.ca/ServicesSoftware/CIVET-2-1-0-Quality-Control)
 
 #### 12. we will use a general pipeline → **_fsl_anat_**
 
