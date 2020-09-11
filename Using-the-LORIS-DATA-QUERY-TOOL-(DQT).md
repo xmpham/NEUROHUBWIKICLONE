@@ -76,3 +76,5 @@ IMAGE
 #### Statistical Analysis
 - this option allows to perform summary statistics (e.g. min, max, avg) 
 - additionally, an R-square plot (Scatterplot) can be created for the variable of interest 
+
+DQT_stats.png
