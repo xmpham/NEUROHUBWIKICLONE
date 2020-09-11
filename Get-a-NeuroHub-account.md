@@ -1,5 +1,7 @@
 In order to help you getting started and set up with a NeuroHub account, please follow the outlined steps below. Should you encounter problems along the way, please contact us via info@neurohub.ca or [open an issue](https://github.com/neurohub/neurohub_documentation/issues).
 
+### Procedure
+
 1. go to [www.neurohub.ca](https://neurohub.ca/), click on “**Portal**” in the upper right corner
 
 ![](https://github.com/neurohub/neurohub_documentation/blob/master/images/portal.png)
@@ -27,3 +29,9 @@ In order to help you getting started and set up with a NeuroHub account, please 
 ![](https://github.com/neurohub/neurohub_documentation/blob/master/images/cbrain_login.png)
 
 After completing these steps, everything necessary should be set up and you should be ready to start using NeuroHub!
+
+
+### Questions or Issues?
+For any questions or issues related to the registration process for accessing the UK Biobank data though the McGill agreement, please contact the NeuroHub team by email at ukbiobank.neurohub@mcin.ca.
+
+For any questions or issues specifically related to accessing the NeuroHub portal, please contact the NeuroHub team by email at info@neurohub.ca.
