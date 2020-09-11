@@ -64,10 +64,10 @@ further information can be found here: [Civet]()
 
 #### 15. start your analysis by clicking on “**Start fsl_anat**”
 
-##### 16. your task is launched in the background 
+#### 16. your task is launched in the background 
 
    * you can check the status of your analysis under “Current Status”
 
-##### 17. when your task is completed, you will receive a message on your task dashboard
+#### 17. when your task is completed, you will receive a message on your task dashboard
 
    * the output directory is located under your “**Projects**”
