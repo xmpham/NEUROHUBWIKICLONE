@@ -1,0 +1,43 @@
+Please follow the steps below to learn how to create a project.
+
+
+Within a project you can upload and analyze data, as well as invite other researchers to collaborate with you on your data. 
+A project can either be publicly available or private.
+
+#### 1. click on “**Projects**” in the upper right corner 
+
+#### 2. you will land on the project overview page, where all public projects are displayed 
+
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/projects.png)
+
+#### 3. to create your own project, click on “**+ ADD PROJECT**”  
+
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/add_project.png)
+
+#### 4. here, you can create and describe your project, enter your project’s name, a short description and decide, whether it should public and thus visible to all NeuroHub users → click on “****CREATE****” to create your project 
+
+#### 5. your project is created and you will receive a confirmation summarizing your project
+
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/project_test.png)
+
+
+#### 6. you can invite other users to join via their Email-addresses or their CBRAIN usernames, therefore click on “INVITE OTHER USERS”
+
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/add_user.png)
+
+#### 7. you can edit your project “**EDIT**” and for example change the description and accessibility, therefore change options and click on “UPDATE”
+
+#### 8. additionally, you can add a licence “**+ ADD LICENSE**” and storage “**+ ADD STORAGE**” 
+
+#### 9. click on “UPLOAD FILE” to add files to your project
+
+   * here, you can upload a file you wish to analyze
+   * select a storage for your file from the drop-down-menu and assign the file to your project
+   * your uploaded files are summarized in a table
+
+
+#### … and your currently created project including your uploaded file can now be found on your project dashboard
+
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/project_overview.png)
+
+
