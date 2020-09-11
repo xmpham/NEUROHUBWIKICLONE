@@ -37,5 +37,42 @@ IMAGE
 - _Visits:_ with this option you can further narrow your search
 
 
+IMAGE
+- click on the files you are interested in, these are then summarized under _Fields_ on the right side of the page
 
+IMAGE
 
+- another useful instrument is ukbb_covid19, which includes the fields laboratory, origin, result, specdate, spectype). 
+
+IMAGE
+
+#### Define Filters (optional)
+- to add a filter, select an instrument and a field then enter the condition (operator + value)
+- filters can be grouped using AND or OR operators. Use the _Add Group_ and _Add Rule_ button to create the desired filters
+
+IMAGE
+
+#### View data
+- click _Run Query_ to see the results. It can take a few minutes to load. 
+
+IMAGE
+
+IMAGE
+
+- the data can be downloaded (_Download Data as ZIP_) in the browser or exported to NeuroHub (_Export Data to Neurohub_)
+  - Download Data as a _csv_
+    - This option is available at the bottom of the data table using the _Download Table as CSV_ button. The data in the table will be sent to the browser as a single csv file. For images, the url of the file will be “displayed” in the csv. 
+  - Download Data as ZIP	
+    - This is identical to the “_Download Data as a csv_” with the exception that Image files will be downloaded automatically and zipped in the browser. 
+  - Export Data to Neurohub
+    - a modal window will appear asking to provide a NeuroHub token
+    - to obtain that token, go to My Account page in [NeuroHub](https://portal.neurohub.ca/)
+    - copy the token in the API token section (_Neurohub API token_)
+
+IMAGE
+IMAGE
+- the exported data is listed under _Latest Updated Files_ on your Neurohub Dashboard
+
+#### Statistical Analysis
+- this option allows to perform summary statistics (e.g. min, max, avg) 
+- additionally, an R-square plot (Scatterplot) can be created for the variable of interest 
