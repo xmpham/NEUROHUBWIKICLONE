@@ -17,7 +17,7 @@ If you have questions regarding this documentation, including any of its parts o
   1. [Access NeuroHub](https://github.com/neurohub/neurohub_documentation/wiki/2.1.Access-NeuroHub)
   2. [Creating a project](https://github.com/neurohub/neurohub_documentation/wiki/2.2.Creating-a-project)
   3. [Using the LORIS Data-Query-Tool](https://github.com/neurohub/neurohub_documentation/wiki/2.3.Using-the-LORIS-Data-Query-Tool-(DQT))
-  4. [Using Jupyter Notebook in NeuroHub](https://github.com/neurohub/neurohub_documentation/wiki/2.4.Jupyter-Notebook)
+  4. [Using Jupyter Notebook in NeuroHub](https://github.com/neurohub/neurohub_documentation/wiki/2.4-Jupyter-Notebook)
 
 #### 3. [Examples](https://github.com/neurohub/neurohub_documentation/wiki/3.0.Examples)
   1. [Analyses of structural data](https://github.com/neurohub/neurohub_documentation/wiki/3.1.Example-1-Analyses-of-structural-data)
