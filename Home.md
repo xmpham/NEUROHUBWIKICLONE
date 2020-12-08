@@ -25,3 +25,5 @@ If you have questions regarding this documentation, including any of its parts o
 
 
 #### 4. [SUPPLEMENTARY INFORMATION](https://github.com/neurohub/neurohub_documentation/wiki/4.0.Supplementary-Information)
+
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/neurohub_cr_ov.png)
