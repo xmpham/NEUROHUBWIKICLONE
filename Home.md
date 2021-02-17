@@ -17,8 +17,8 @@ If you have questions regarding this documentation, please contact support@neuro
   1. [Access NeuroHub](2.1.Access-NeuroHub)
   2. [Creating a project](2.2.Creating-a-project)
   3. [Using the LORIS Data-Query-Tool](2.3.Using-the-LORIS-Data-Query-Tool-(DQT))
-  4. [Using Jupyter Notebooks in NeuroHub](2.4.-Jupyter-Notebooks)
-  5. [Messaging in NeuroHub](2.5.-Messaging)
+  4. [Using Jupyter Notebooks in NeuroHub](2.4.Jupyter-Notebooks)
+  5. [Messaging in NeuroHub](2.5.Messaging)
 
 #### 3. [Examples](3.0.Examples)
   1. [Analyses of structural data](3.1.Example-1-Analyses-of-structural-data)
