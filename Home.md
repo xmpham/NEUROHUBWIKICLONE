@@ -24,6 +24,8 @@ If you have questions regarding this documentation, please contact support@neuro
   1. [Analyses of structural data](3.1.Example-1-Analyses-of-structural-data)
 
 
-#### 4. [SUPPLEMENTARY INFORMATION](4.0.Supplementary-Information)
+#### 4. [Supplementary Information](4.0.Supplementary-Information)
+
+#### 5. [Direct Access to the UKB Data](5.0.Direct-UKBB-Access-On-Compute-Canada)
 
 ![](img/neurohub_cr_ov.png)
