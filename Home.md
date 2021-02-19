@@ -11,7 +11,7 @@ If you have questions regarding this documentation, please contact support@neuro
 ## Table of Contents
 #### 1. [Getting started](1.0.Getting-started)
   1. [Get a NeuroHub account](1.1.Get-a-NeuroHub-account)
-  1. [Obtain UKBiobank access](1.2.UKBiobank-Access-Request)
+  2. [Obtain UKBiobank access](1.2.UKBiobank-Access-Request)
 
 #### 2. [Using NeuroHub](2.0.Using-NeuroHub)
   1. [Access NeuroHub](2.1.Access-NeuroHub)
@@ -27,5 +27,7 @@ If you have questions regarding this documentation, please contact support@neuro
 #### 4. [Supplementary Information](4.0.Supplementary-Information)
 
 #### 5. [Direct Access to the UKB Data](5.0.Direct-UKBB-Access-On-Compute-Canada)
+  1. [Available Data](5.1.Available-Data)  
+  2.
 
 ![](img/neurohub_cr_ov.png)
