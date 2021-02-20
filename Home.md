@@ -26,8 +26,8 @@ If you have questions regarding this documentation, please contact support@neuro
 
 #### 4. [Supplementary Information](4.0.Supplementary-Information)
 
-#### 5. [Direct Access to the UKB Data](5.0.Direct-UKBB-Access-On-Compute-Canada)
+#### 5. [Direct Access to the UK Data](5.0.Direct-UKB-Access-On-Compute-Canada)
   1. [Available Data](5.1.Available-Data)  
-  2.
+  2. [Accessing Data](5.2.Accessing-Data)
 
 ![](img/neurohub_cr_ov.png)
