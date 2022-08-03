@@ -1,6 +1,6 @@
 # **Welcome to the NeuroHub Wiki**
 
-![](img/NeuroHub_RGB.png)
+![](https://github.com/neurohub/neurohub_documentation/blob/master/images/NeuroHub_RGB.png)
 
 The aim of this documentation is to provide a step by step instruction in order to access and to use [NeuroHub](https://neurohub.ca/), including the upload and analysis of MRI data. 
 It is roughly divided into four parts: [Getting Started](1.0.Getting-started), How to [use NeuroHub](2.1.Access-NeuroHub), [Examples](3.0.Examples) and [Supplementary Information](4.0.Supplementary-Information). 
