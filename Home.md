@@ -29,6 +29,6 @@ If you have questions regarding this documentation, please contact support@neuro
 
 #### 5. [Direct Access to the UK Data](5.0.Direct-UK-Biobank-Access-On-Compute-Canada)
   1. [Available Data](5.1.Available-Data)  
-  2. [Accessing Data](5.2.Accessing-Data)
+  2. [Accessing Data](5.2.Accessing-Imaging-Data)
 
 ![](img/neurohub_cr_ov.png)
