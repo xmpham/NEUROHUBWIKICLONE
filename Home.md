@@ -31,4 +31,8 @@ If you have questions regarding this documentation, please contact support@neuro
   1. [Available Data](5.1.Available-Data)  
   2. [Accessing Data](5.2.Accessing-Imaging-Data)
 
+#### 6. [NeuroHub and Machine Learning](6.0.NeuroHub-and-Machine-Learning)
+
+#### 7. [Acknowledging NeuroHub](7.0.Acknowledging-NeuroHub)
+
 ![](img/neurohub_cr_ov.png)
