@@ -14,13 +14,12 @@ If you have questions regarding this documentation, please contact support@neuro
   2. [Obtain UKBiobank access](1.2.UKBiobank-Access-Request)
 
 #### 2. [Using NeuroHub](2.0.Using-NeuroHub)
-  1. [Access NeuroHub](2.1.Access-NeuroHub)
-  2. [Available Tools and Datasets](2.1.Available-Tools-and-Datasets)
-  3. [Access NeuroHub](2.2.Access-NeuroHub)
+  1. [Available Tools and Datasets](2.1.Available-Tools-and-Datasets)
+  1. [Access NeuroHub](2.2.Access-NeuroHub)
   2. [Creating a project](2.3.Creating-a-project)
-  3. [Using the LORIS Data-Query-Tool](2.6.Using-the-LORIS-Data-Query-Tool-(DQT))
-  4. [Using Jupyter Notebooks in NeuroHub](2.4.Jupyter-Notebooks)
-  5. [Messaging in NeuroHub](2.5.Messaging)
+  4. [Using the LORIS Data-Query-Tool](2.6.Using-the-LORIS-Data-Query-Tool-(DQT))
+  5. [Using Jupyter Notebooks in NeuroHub](2.4.Jupyter-Notebooks)
+  6. [Messaging in NeuroHub](2.5.Messaging)
 
 #### 3. [Examples](3.0.Examples)
   1. [Analyses of structural data](3.1.Example-1-Analyses-of-structural-data)
