@@ -22,7 +22,7 @@ If you have questions regarding this documentation, please contact support@neuro
   6. [Messaging in NeuroHub](2.5.Messaging-in-NeuroHub)
 
 #### 3. [Examples](3.0.Examples)
-  1. [Analyses of structural data](3.1.Example-1-(Analyses-of-structural-data)
+  1. [Analyses of structural data](3.1.Example-1-(Analyses-of-structural-data))
 
 #### 4. [Supplementary Information](4.0.Supplementary-Information)
 
